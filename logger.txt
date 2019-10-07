@@ -187,3 +187,4 @@
 2019.10.07 15:20:13 : [The user changed the UI language to Dutch.] [Mode = Testing]
 2019.10.07 15:20:22 : [NoOrdersOnDateException was thrown: No orders were found for that date.  Please try again.] [Mode = Testing]
 2019.10.07 15:20:28 : [The user exited the program.] [Mode = Testing]
+2019.10.07 15:34:22 : [The user started the program.] [Mode = Testing]
